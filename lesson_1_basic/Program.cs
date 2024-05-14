@@ -10,6 +10,8 @@ namespace lesson_1_basic
     {
         static void Main(string[] args)
         {
+            //viet tat cw
+            Console.WriteLine();
         }
     }
 }
