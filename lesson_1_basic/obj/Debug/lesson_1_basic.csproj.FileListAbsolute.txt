@@ -1,0 +1,7 @@
+D:\c#\relearn_c#\lesson_1_basic\bin\Debug\lesson_1_basic.exe.config
+D:\c#\relearn_c#\lesson_1_basic\bin\Debug\lesson_1_basic.exe
+D:\c#\relearn_c#\lesson_1_basic\bin\Debug\lesson_1_basic.pdb
+D:\c#\relearn_c#\lesson_1_basic\obj\Debug\lesson_1_basic.csproj.AssemblyReference.cache
+D:\c#\relearn_c#\lesson_1_basic\obj\Debug\lesson_1_basic.csproj.CoreCompileInputs.cache
+D:\c#\relearn_c#\lesson_1_basic\obj\Debug\lesson_1_basic.exe
+D:\c#\relearn_c#\lesson_1_basic\obj\Debug\lesson_1_basic.pdb
