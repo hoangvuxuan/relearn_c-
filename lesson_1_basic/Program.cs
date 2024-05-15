@@ -31,6 +31,7 @@ namespace lesson_1_basic
             Console.WriteLine(x);
             */
 
+            /*
             //ex1:
             Console.Write("enter a int number: ");
             int a = 0;
@@ -45,6 +46,27 @@ namespace lesson_1_basic
             {
 
             }
+            */
+
+            /*
+            //ex2
+            Console.Write("enter a string: ");
+            string s = Console.ReadLine();
+            string[] t = {"apple", "banana", "cherry"};
+            Console.WriteLine(string.Join(".", t));
+            
+            if(!string.IsNullOrEmpty(s) )
+            {
+                if (s.Equals(t[0]))
+                {
+                    Console.WriteLine(t);
+                }
+            }
+
+            */
+
+
+
 
 
         }
