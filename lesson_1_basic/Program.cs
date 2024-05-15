@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace lesson_1_basic
@@ -65,9 +66,29 @@ namespace lesson_1_basic
 
             */
 
+            /*
+            List<int> list = new List<int>();
+            List<int> list2 = new List<int>();
+            List<int> list3 = new List<int>();  
 
+            Random rand = new Random();
+            for(int i = 0; i < 20; i++)
+            {
+                list.Add(rand.Next(1, 10));
+            }
 
-
+            foreach(int i in list)
+            {
+                if(i%2 == 0)
+                {
+                    list2.Add(i);
+                }
+                else
+                {
+                    list3.Add(i);
+                }
+            }
+            */
 
         }
     }
